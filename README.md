@@ -233,7 +233,10 @@ The solution provides a scalable framework that can be adapted to real-world ret
 ## Author & Contact
 
 Jidnyasa Thakre
+
 Data Analyst
+
 Email: jidnyasathakre3@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/jidnyasathakre/)
 
