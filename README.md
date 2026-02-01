@@ -7,10 +7,13 @@ This project delivers an **end-to-end data analytics solution** focused on custo
 The main objective is to uncover customer purchasing patterns, identify key sales drivers, and provide actionable insights to support data-driven decision-making.
 
 ---
+## Problem Statement
+A leading retail company wants to better understand its customers’ shopping behavior in order to improve sales, customer satisfaction, and long-term loyalty. The management team has noticedchanges in purchasing patterns across demographics, product categories, and sales channels (online vs. offline). They are particularly interested in uncovering which factors, such as discounts, reviews, seasons, or payment preferences, drive consumer decisions and repeat purchases.
 
+----
 ## Dataset
 
-**File:** `customer_shopping_behavior.csv`
+**File:** 'customer_shopping_behavior.csv'
 
 ### Description
 
@@ -227,3 +230,10 @@ It highlights:
 The solution provides a scalable framework that can be adapted to real-world retail and e-commerce analytics use cases.
 
 ---
+## Author & Contact
+
+Jidnyasa Thakre
+Data Analyst
+Email: jidnyasathakre3@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jidnyasathakre/)
+
